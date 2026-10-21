@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch>=2.0
+librosa
+PyWavelets
+soundfile
+joblib
+shap
+openpyxl
+requests
